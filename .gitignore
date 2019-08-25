@@ -1,0 +1,6 @@
+__pycache__/*
+data/*
+food_reviews/*
+identifier_model/*
+.DS_Store
+*.zip
